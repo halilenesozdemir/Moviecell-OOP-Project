@@ -1,0 +1,32 @@
+{
+  "movies": [
+    {
+      "name": "Yunus Emre",
+      "director": "Emre Konuk",
+      "url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/l2kTvitWN7tnpZGf4vb5MxK4TGf.jpg",
+      "release": "2015-06-18",
+      "id": 1
+    },
+    {
+      "name": "Esaretin Bedeli",
+      "director": "Frank Darabont",
+      "url": "https://resim.fullhdfilmizlesene.pw/mdsresim_orj/fullhd-esaretin-bedeli-full-hd-turkce-dublaj-izle.jpg",
+      "release": "1995-03-10",
+      "id": 2
+    },
+    {
+      "name": "Monk",
+      "director": "Andy Breckman",
+      "url": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3axGMbUecXXOPSeG47v2i9wK5y5.jpg",
+      "release": "2006-01-03",
+      "id": 3
+    },
+    {
+      "name": "Yüzüklerin Efendisi",
+      "director": "Peter Jackson",
+      "url": "https://tr.web.img4.acsta.net/pictures/bzp/01/27070.jpg",
+      "release": "2001-08-29",
+      "id": 4
+    }
+  ]
+}
